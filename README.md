@@ -1,4 +1,4 @@
-redesoc-atividade
+redesoc-conteiner
 =================
 
-Esqueleto de atividade para a disciplina *Redes Sociais* do Insper.
+Infraestrutura para o contêiner da disciplina *Redes Sociais* do Insper.
