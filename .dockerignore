@@ -1,4 +1,3 @@
+__shared__
 .git
-notebooks
 .gitignore
-docker-compose.yml
